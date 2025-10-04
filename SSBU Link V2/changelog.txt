@@ -1,0 +1,20 @@
+Link Ultimate SFX v2 Changelog
+
+Asthetics and sounds:
+- Added multiple voice lines in upsmash.
+- Fixed dsmash and fsmash voice lines.
+- Added boomerang continue, return and catch sounds.
+- UpB ground and air have different voice lines.
+- Vanilla pixel art restored to match with Link design.
+
+Attacks:
+- Incresed hitstun in up-tilt.
+- Fair first hit has descresed knockback, but he connect better to second hit.
+- Incresed knockback in upsmash, he can kill now.
+- No reversable angle in bair.
+- Adjusted angle of down-tilt.
+- Decresed f-throw and b-throw.
+- Now dair spikes in first frame only.
+- Player and enemies can be shield Link's bomb.
+
+
